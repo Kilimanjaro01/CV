@@ -75,7 +75,7 @@ The design emphasizes clarity, balance, and hierarchy, ensuring recruiters can q
 
 The repository includes at least the following files:
 
-- `CV.html`
+- `index.html`
 - `CV.css`
 
 All files are structured to ensure readability, maintainability, and semantic HTML markup.
