@@ -60,7 +60,8 @@ The layout automatically adapts to different screen widths using a **CSS media q
 }
 ```
 
-The design emphasizes **clarity, balance, and hierarchy**, ensuring recruiters can quickly find the most relevant information.
+The design emphasizes clarity, balance, and hierarchy, ensuring recruiters can quickly find the most relevant information. Every visual element has been carefully chosen to guide the reader’s attention naturally from one section to another, creating a smooth and coherent reading flow. The consistent use of spacing, typography, and color not only reinforces the visual identity of the page but also improves legibility, helping users focus on content rather than decoration. This results in a professional, organized, and trustworthy presentation that reflects both technical precision and aesthetic awareness.
+
 
 ---
 
