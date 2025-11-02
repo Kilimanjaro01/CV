@@ -67,7 +67,7 @@ The design emphasizes clarity, balance, and hierarchy, ensuring recruiters can q
 
 ### Figma Project
 
-[Link to the Figma project]([https://www.figma.com/your-project-link](https://www.figma.com/design/hcKDv3xtjftMdwypOGQdhf/CV?t=eyJTvpdmXO2EOjEW-1))
+[Link to the Figma project](https://www.figma.com/design/hcKDv3xtjftMdwypOGQdhf/CV?t=eyJTvpdmXO2EOjEW-1)
 
 ---
 
