@@ -4,14 +4,9 @@
 
 ### User Profile (User Persona)
 
-**Name:** Laura Smith  
-**Age:** 23  
-**Occupation:** Graphic Design Student  
-**Goals:** Laura wants to showcase her design projects in a clean and professional online portfolio. She needs a website that allows potential employers or collaborators to easily browse her work and contact her.  
-**Frustrations / Needs:** She dislikes cluttered websites with difficult navigation. She values minimal interfaces that highlight her visuals. She often uses her mobile phone, so responsive design is essential.  
-**Behavior:** Laura regularly checks design trends, uses both mobile and desktop devices, and expects a fast and intuitive user experience.  
-
-In summary, the website is designed for young creative professionals who need an elegant, user-friendly space to present their work and identity online.
+**Name:** >Fran José Álvarez Pascul.
+**Carrear:** >Computer science studen
+**Profile:** Young student who wants to learn and improve in the workplace.
 
 ---
 
