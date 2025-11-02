@@ -71,6 +71,13 @@ The design emphasizes clarity, balance, and hierarchy, ensuring recruiters can q
 
 ---
 
+## Live Website
+
+You can view the website live here:  
+[**My CV – GitHub Pages Link**](https://yourusername.github.io/your-repo-name)
+
+---
+
 ### Website Code
 
 The repository includes at least the following files:
