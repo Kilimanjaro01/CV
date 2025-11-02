@@ -17,9 +17,13 @@ Through this website, I want to communicate not only my experience and education
 
 ### Information Architecture
 
-The website’s information is organized into four main sections to ensure clear and intuitive navigation. The **Home page** introduces the designer and the purpose of the site, creating a strong first impression. The **Portfolio section** showcases selected projects with images and short descriptions that help visitors quickly understand each project’s context. The **About page** provides background information about the designer’s education, skills, and approach to design. The **Contact page** includes a simple form and social media links, allowing potential employers or collaborators to get in touch easily.
+The website’s information is organized in a single-page layout that follows a clear and hierarchical structure, allowing users to easily locate the most relevant information at a glance. The content is divided into two main areas: a sidebar containing personal and contact information, and a main section that focuses on my background, work experience, and education. This structure provides a simple and intuitive browsing experience, making it ideal for recruiters or employers who want to evaluate my profile quickly and efficiently.
 
-This structure follows a linear and user-centered logic. Visitors can reach any part of the site in one or two clicks, promoting accessibility and engagement. The consistent navigation bar and footer help maintain orientation throughout the browsing experience.
+The **sidebar** includes my **name**, **profile photo**, and **professional title**, immediately identifying the purpose of the website. Below that, the **contact section** lists essential information such as email, phone number, and location, allowing potential employers to contact me directly. The sidebar also features my **skills** and **languages**, displayed through progress bars that visually represent my level of proficiency in each area. This combination of text and visual elements helps communicate key information in a clear and engaging way.
+
+The **main content area** expands on the professional side of my profile. It begins with an **About Me** section that provides a short description of who I am, my interests, and my general approach to work. Following that, the **Work Experience** section lists the companies where I have worked, the positions I held, the corresponding years, and a few bullet points describing my main functions or responsibilities within each role. Finally, the **Education** section summarizes my academic background, including degrees and institutions, to give a complete overview of my qualifications.
+
+The structure follows a **top-down, user-centered logic**, ensuring that visitors first see who I am and how to contact me, and then learn about my skills, experience, and education. The information is visually separated with consistent spacing and headings, and the layout adapts responsively to any screen size for a smooth and accessible user experience.
 
 ---
 
