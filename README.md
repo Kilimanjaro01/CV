@@ -4,8 +4,8 @@
 
 ### User Profile (User Persona)
 
-**Name:** >Fran José Álvarez Pascul.
-**Carrear:** >Computer science studen
+**Name:** Fran José Álvarez Pascul.
+**Carrear:** Computer science studen
 **Profile:** Young student who wants to learn and improve in the workplace.
 
 ---
