@@ -77,12 +77,6 @@ All files are structured to ensure readability, maintainability, and semantic HT
 
 ---
 
-### Public Website
-
-[View the website on GitHub Pages](https://yourusername.github.io/your-project/)
-
----
-
 ### Author
 
 **Name:** Fran José Álvarez Pascual
