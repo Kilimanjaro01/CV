@@ -49,7 +49,7 @@ The layout automatically adapts to different screen widths using a **CSS media q
     text-align: center;
   }
 }
-
+```
 
 The design emphasizes **clarity, balance, and hierarchy**, ensuring recruiters can quickly find the most relevant information.
 
