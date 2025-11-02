@@ -70,9 +70,8 @@ The design emphasizes **clarity, balance, and hierarchy**, ensuring recruiters c
 
 The repository includes at least the following files:
 
-- `index.html`
-- `styles.css`
-- (optional) `script.js`
+- `CV.html`
+- `CV.css`
 
 All files are structured to ensure readability, maintainability, and semantic HTML markup.
 
@@ -86,6 +85,4 @@ All files are structured to ensure readability, maintainability, and semantic HT
 
 ### Author
 
-**Name:** Your Name  
-**Course:** Web Design Fundamentals  
-**Date:** November 2025
+**Name:** Fran José Álvarez Pascual
