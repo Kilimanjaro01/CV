@@ -4,9 +4,14 @@
 
 ### User Profile (User Persona)
 
-**Name:** Fran José Álvarez Pascul.
-**Carrear:** Computer science student.
-**Profile:** Young student who wants to learn and improve in the workplace.
+This website is intended for a company or recruiter who might be interested in hiring me.  
+It has been designed as a professional online version of my CV, allowing employers to quickly understand who I am, what skills I have, and what kind of work I can do.  
+
+The target audience includes hiring managers, HR professionals, or potential clients looking for someone with my technical and creative background.  
+The structure and content of the site aim to make their experience as efficient and pleasant as possible — everything is clearly organized, easy to read, and accessible from any device.  
+
+My goal is to make a **strong first impression** by presenting myself as a competent, reliable, and detail-oriented professional.  
+Through this website, I want to communicate not only my experience and education, but also my sense of design, organization, and commitment to quality work.
 
 ---
 
