@@ -1,4 +1,4 @@
-# Project Title: Creative Portfolio Website
+# Creative Portfolio Website
 
 ## Project Analysis
 
