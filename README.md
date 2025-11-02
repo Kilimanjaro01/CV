@@ -36,6 +36,20 @@ Key design decisions include:
 - **Responsiveness:**  
   - The layout adapts to tablets and mobile devices by stacking the sidebar on top.  
   - All text remains legible across devices thanks to relative font sizes and flexible containers.
+  
+The layout automatically adapts to different screen widths using a **CSS media query**:
+
+```css
+@media (max-width: 768px) {
+  .container {
+    flex-direction: column;
+  }
+  .sidebar {
+    width: 100%;
+    text-align: center;
+  }
+}
+
 
 The design emphasizes **clarity, balance, and hierarchy**, ensuring recruiters can quickly find the most relevant information.
 
