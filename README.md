@@ -5,7 +5,7 @@
 ### User Profile (User Persona)
 
 **Name:** Fran José Álvarez Pascul.
-**Carrear:** Computer science studen
+**Carrear:** Computer science student.
 **Profile:** Young student who wants to learn and improve in the workplace.
 
 ---
@@ -20,9 +20,24 @@ This structure follows a linear and user-centered logic. Visitors can reach any 
 
 ### Visual Design
 
-The visual design is based on minimalism and balance. The color palette uses neutral tones such as white, light gray, and black, combined with a single accent color (a soft blue) to highlight interactive elements like buttons and links. This ensures clarity and avoids visual overload. The typography combines a modern sans-serif font for headings and a clean serif font for body text, reinforcing readability and visual hierarchy.
+The visual design follows a **modern and minimalistic** aesthetic, using a **two-column layout** with a dark sidebar and a light content area to create visual contrast.  
 
-Generous spacing and alignment were carefully applied to maintain a sense of order and sophistication. The layout adapts seamlessly to different screen sizes, ensuring the same quality experience on mobile and desktop devices. Visual consistency was prioritized through the use of recurring shapes, grid systems, and consistent margins. Overall, the design conveys professionalism, simplicity, and attention to detail—qualities that reflect the user’s identity as a creative professional.
+Key design decisions include:
+
+- **Color Palette:**  
+  - Dark navy (`#1e2a38`) for the sidebar background to convey professionalism and contrast with white text.  
+  - Accent blue (`#4fc3f7`) used for highlights and section dividers, bringing energy and coherence.  
+  - Light grey (`#f4f6f8`) as the main background color for readability and visual balance.  
+- **Typography:**  
+  - A clean sans-serif font (`"Segoe UI", Roboto, Helvetica, Arial`) for clarity and modernity.  
+- **Layout and Spacing:**  
+  - Generous padding and spacing between sections to enhance readability.  
+  - Rounded profile photo and subtle section dividers to maintain a friendly but professional appearance.  
+- **Responsiveness:**  
+  - The layout adapts to tablets and mobile devices by stacking the sidebar on top.  
+  - All text remains legible across devices thanks to relative font sizes and flexible containers.
+
+The design emphasizes **clarity, balance, and hierarchy**, ensuring recruiters can quickly find the most relevant information.
 
 ---
 
