@@ -4,14 +4,14 @@
 
 ### User Profile (User Persona)
 
-This website is intended for a company or recruiter who might be interested in hiring me.  
-It has been designed as a professional online version of my CV, allowing employers to quickly understand who I am, what skills I have, and what kind of work I can do.  
+This website is intended for a company or recruiter who might be interested in hiring me. It has been designed as a professional online version of my CV, allowing employers to quickly understand who I am, what skills I have, and what kind of work I can do.
 
-The target audience includes hiring managers, HR professionals, or potential clients looking for someone with my technical and creative background.  
-The structure and content of the site aim to make their experience as efficient and pleasant as possible — everything is clearly organized, easy to read, and accessible from any device.  
+The target audience includes hiring managers, HR professionals, or potential clients looking for someone with my technical and creative background. The structure and content of the site aim to make their experience as efficient and pleasant as possible — everything is clearly organized, easy to read, and accessible from any device.
 
-My goal is to make a **strong first impression** by presenting myself as a competent, reliable, and detail-oriented professional.  
-Through this website, I want to communicate not only my experience and education, but also my sense of design, organization, and commitment to quality work.
+My goal is to make a strong first impression by presenting myself as a competent, reliable, and detail-oriented professional. Through this website, I want to communicate not only my experience and education, but also my sense of design, organization, and commitment to quality work.
+
+Beyond a simple résumé, this project is meant to serve as a personal presentation tool that reflects my identity as both a designer and developer. It demonstrates not only my technical proficiency but also my ability to create user-friendly and visually coherent interfaces. By combining structured content with an appealing visual design, I aim to convey professionalism and creativity in equal measure. The website is also adaptable, so recruiters can easily view it on different devices without losing clarity or readability. In essence, this site represents the bridge between my personal brand and potential employers, showcasing my passion for web development and my dedication to continuous improvement and professional growth.
+
 
 ---
 
